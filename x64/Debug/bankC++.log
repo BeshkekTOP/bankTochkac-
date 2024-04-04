@@ -1,0 +1,3 @@
+﻿  bankC++.cpp
+C:\Users\User\source\repos\bankC++\bankC++\bankC++.cpp(82): warning C4715: transfer: значение возвращается не при всех путях выполнения
+  bankC++.vcxproj -> C:\Users\User\source\repos\bankC++\x64\Debug\bankC++.exe
